@@ -2,6 +2,11 @@
 using namespace std;
 
 int main() {
+    // personal details
+    cout << "Archit Jain" << endl;
+    cout << "class: BTech CseB" << endl;
+    cout << "RollNo : 72-cseb-21" << endl;
+    
     //loop variable i to iterate rows and j to iterate columns.
     int row1, col1, row2, col2, i, j, k;
     cout << "\n\nEnter the number of Rows and Columns of first matrix : ";
